@@ -2,11 +2,9 @@
 Download & Installation 
 Min RAM to run this mod: (4-)8Gb (!!don't report lag issues if you have less or old pc specs!!)
 
-PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.0.2-3) - [SPACEDOCK](https://spacedock.info/mod/2620/Galaxies%20Unbound:%20A%20Stellar%20Odyssey) (!!never install an update over previous version!!)
+PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.1) (!!never install an update over previous version!!)
 
-! LATEST STABLE VERSION OF GU 1.1: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.1)
-
-
+! LATEST STABLE VERSION OF GU 1.2: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.2)
 
 
 # How to install Galaxies Unbound: A Stellar Odyssey
@@ -37,7 +35,7 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 
 # How to use the HOMESWITCH mode.
 
-1. We'll be using Alpha Centauri as an example. Go to the GU-GENERAL_Settings.cfg in the GU-folder and enable Alpha Centauri.
+1. We'll be using Alpha Centauri as an example. Go to the GU-GENERAL_Settings.cfg in the GU-folder and make sure Alpha Centauri is enabled.
 
 ![screenshot32](https://cdn.discordapp.com/attachments/543910002138808330/859055860600274947/unknown.png)
 
@@ -52,12 +50,18 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 4. DONE! Now you'll start in your new homesystem! Don't forget to run KSP twice (2x) in order for visuals to work properly. 
 
 
-
 # AFTER launching the game. (!important!)
 
 1. You need Texture quality at its highest setting. Otherwise a few worlds will spawn as black orbs. 
 
 ![screenshot31](https://cdn.discordapp.com/attachments/527312263854424067/795708645983256607/Settings.PNG)
+
+# A MINOR ISSUE THAT MIGHT HAPPEN with the latest scatterer
+
+1. Sometimes after loading the game twice (as you must for a homeswitch), the body that represents your homeworld, looks like this:
+![screenshot40](https://cdn.discordapp.com/attachments/543910002138808330/929084045982306304/unknown.png)
+
+2. To fix this, remove the ScattererAtmosphereCache -folder (in GameData) and restart the game.
 
 
 --- After you followed these steps and the game loaded without errors, you should be able to add more mods.
