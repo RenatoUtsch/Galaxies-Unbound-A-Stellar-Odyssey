@@ -56,12 +56,16 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 
 ![screenshot31](https://cdn.discordapp.com/attachments/527312263854424067/795708645983256607/Settings.PNG)
 
-# A MINOR ISSUE THAT MIGHT HAPPEN with the latest scatterer
+
+# A MINOR ISSUE that might happen with the latest scatterer.
 
 1. Sometimes after loading the game twice (as you must for a homeswitch), the body that represents your homeworld, looks like this:
+
 ![screenshot40](https://cdn.discordapp.com/attachments/543910002138808330/929084045982306304/unknown.png)
 
 2. To fix this, remove the ScattererAtmosphereCache -folder (in GameData) and restart the game.
+
+
 
 
 --- After you followed these steps and the game loaded without errors, you should be able to add more mods.
