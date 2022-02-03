@@ -76,6 +76,7 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 
 1. Download and install both GU (version 1.2) and KSRSS as it should.
 2. Replace KSRSSKopernicusSettings.cfg in GameData/KSRSS with the KSRSSKopernicusSettings.cfg file added inside the Optional/GU_KSRSS_Fix folder from the GU_Core download.
-3. Enjoy GU + KSRSS
+3. Go to GameData/KSRSS/Patches and remove the sunflares.cfg
+4. Enjoy GU + KSRSS
 * Keep in mind you cannot have stock visuals (GU) or a homeswitch (GU) installed with KSRSS.
 
