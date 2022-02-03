@@ -72,3 +72,9 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 --- This should be all to get GU working! ENJOY!
 
 
+# HOW to make GU compatible with KSRSS.
+
+1. Download and install both GU (version 1.2) and KSRSS as it should.
+2. Replace KSRSSKopernicusSettings.cfg in GameData/KSRSS with the KSRSSKopernicusSettings.cfg file added inside the Optional/GU_KSRSS_Fix folder from the GU_Core download.
+3. Enjoy GU + KSRSS
+
