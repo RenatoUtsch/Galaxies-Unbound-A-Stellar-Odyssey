@@ -4,7 +4,7 @@ Min RAM to run this mod: (4-)8Gb (!!don't report lag issues if you have less or 
 
 PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.1) (!!never install an update over previous version!!)
 
-! LATEST STABLE VERSION OF GU 1.2: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.2)
+! LATEST STABLE VERSION OF GU 1.2: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.2.1)
 
 
 # How to install Galaxies Unbound: A Stellar Odyssey
